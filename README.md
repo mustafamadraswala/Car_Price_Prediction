@@ -71,8 +71,13 @@ Push this to github -
 git push origin main
 ```
 
-### Excecute the Car-price-prediction.ipynb file to get the pickle model file
+### Execute the Car-price-prediction.ipynb file to get the pickle model file
+### Create a folder templates and an HTML file - index.html
 ### Create a python file for your flask application
 ```
 touch app.py
 ````
+### Execute the app.py file in vscode
+```
+python app.py
+```
