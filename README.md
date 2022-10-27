@@ -81,3 +81,8 @@ touch app.py
 ```
 python app.py
 ```
+### Deploy to Heroku
+1. Go to Heroku - Create an app Car-price-prediction-mm
+2. Connect the app with github repo
+3. Push final commit to gitub
+4. Deploy branch on heroku
